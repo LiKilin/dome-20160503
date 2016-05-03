@@ -1,0 +1,55 @@
+/*全部页面表头样式*/
+*{
+	margin:0px;
+	padding:0px;
+}
+ul li {
+	list-style:none;
+	text-decoration:none;
+}
+a{
+	text-decoration:none;
+}
+body{
+}
+#navImg{
+	height:280px;
+	width:980px;
+	margin:0 auto;
+}
+#nav{
+	width:980px;
+	height:33px;
+	line-height:30px;
+	text-align:center;
+	margin:0 auto;
+	background-color:#ffbe21;
+}
+#nav ul li{
+	float:left;
+}
+#nav ul li a{
+	color:black;
+	padding:10px 20px;
+	border-right:1px solid #666;
+	border-left:1px solid #CCC;
+}
+/*伪类的使用*/
+#nav ul li a:hover,#nav ul li a:active{
+	color:red;
+	background-color:#faf8ba;
+	border-bottom:2px solid red;
+}
+.aSelect:link,.aSelect:visited,.aSelect:focus,.aSelect:hover{
+	color:red;
+	background-color:#faf8ba;
+	border-bottom:2px solid red;
+}
+/*header结束*/
+#content{
+	width:980px;
+	height:400px;
+	margin:0 auto;
+	background-color:#fffca7;
+}
+

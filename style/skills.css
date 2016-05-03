@@ -1,0 +1,22 @@
+#content h2{
+	font-weight:normal;
+	padding-top:20px; 
+	margin-left:50px; 
+}
+#content ul{
+	margin-left:50px;
+	list-style:inside; 
+}
+#content #point,#content #grow{
+	margin:20px 0 0 50px;
+	display: none;
+}
+#content ul li a:link,#content ul li a:visited{
+	background-color:yellow;
+	color:black;
+}
+#content ul li a:hover,#content ul li a:active{
+	color:#fff;
+	background-color:red;
+}
+

@@ -1,0 +1,20 @@
+article h1{
+    padding-top:20px;
+    margin-left:100px;
+}
+article label{
+    font-weight:bold;
+}
+article div{
+    margin:20px 0 0 100px;
+}
+article textarea{
+    width:400px;
+    height:100px;
+}
+article #submit{
+    margin-left:150px;
+}
+article #cancel{
+    margin-left:50px;
+}

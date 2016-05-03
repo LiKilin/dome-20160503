@@ -1,0 +1,20 @@
+/*Index样式*/
+#img1,#content h2,#content p{
+	float: left;
+}
+#img1{
+	border-radius:10px;
+	margin:20px 0px 10px 50px;
+}
+#content h2{
+	margin:50px 0px 10px 0px;
+}
+#content p{
+	margin:0px 50px 10px 50px;
+	text-indent:2em;
+	line-height:1em;
+}
+#content a{
+	text-decoration:none;
+	background:#FC3;
+}

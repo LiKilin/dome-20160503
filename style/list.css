@@ -1,0 +1,45 @@
+article table{
+    width:600px;
+    margin:0 auto;
+
+}
+article table caption{
+    padding-top:30px;
+    font-weight:bold;
+    font-size:21px;
+}
+article table thead{
+   background-color:#090909;
+    color:#fff;
+    padding:.3em;
+}
+article th{
+    width:100px;
+    height:15px;
+    padding:10px;
+}
+.old{
+    background-color:#FC9;
+}
+
+.new{
+    background-color:#FFaa99;
+}
+article dl{
+    display:block;
+    overflow:hidden;
+    margin-left:200px;
+}
+
+article dl dt{
+    float:left;
+    padding:.5em 1em;
+}
+
+article dl dd{
+    float:left;
+    padding:.5em 1em .5em 0em;
+}
+.hover:hover,.hover:focus{
+    background-color:#ccc;
+}

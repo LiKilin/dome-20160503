@@ -1,0 +1,11 @@
+
+#content h2{
+    margin-left:60px;
+}
+#content ul{
+    margin:20px 0 0 40px;
+}
+#content ul li{
+    margin: 0 10px;
+    float:left;
+}
